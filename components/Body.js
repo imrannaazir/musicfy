@@ -17,8 +17,8 @@ const Body = () => {
     fetchData()
 
     return (
-        <div>
-
+        <div className="fs-1 fw-bold text-danger">
+            Main Body
         </div>
     );
 }

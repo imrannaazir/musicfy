@@ -1,10 +1,11 @@
 import Body from "../components/Body";
+import SideBar from "../components/SideBar";
 
 export default function Home() {
   return (
-    <div>
-      <h1 className='text-primary'>Hello</h1>
+    <div className="d-flex">
       {/* side bar... */}
+      <SideBar />
       {/* Body... */}
       <Body />
     </div>
