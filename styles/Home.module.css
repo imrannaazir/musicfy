@@ -5,3 +5,8 @@
 .banner {
   background-color: #ffb5a7;
 }
+.horizontal {
+  border-top: 2px solid #999;
+  height: 0.5px;
+  width: 80%;
+}
